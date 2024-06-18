@@ -1,1 +1,3 @@
-# WebSocket_automation_testing
+# Автоматизация тестирования WebSocket API
+
+В качестве тестируемого сервиса использовал: wss://www.onetwotrip.com/
